@@ -65,7 +65,6 @@ BuhoCleaner is a professional-grade macOS maintenance app that makes system opti
 ---
 
 
----
 
 ## 🖼 Preview
 
